@@ -67,8 +67,7 @@
               "RelativeToolTip": "Entities\\DataTransferObjects\\CourseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:28:52.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T15:28:52.176Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Entities\\DataTransferObjects\\CategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:28:35.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T15:28:35.163Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "CourseAPI\\Utilities\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:20:14.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T15:20:14.094Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Entities\\Models\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:02:21.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T15:02:21.311Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Presantation\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:48:42.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T14:48:42.419Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Presantation\\Controllers\\RatingController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:48:41.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T14:48:41.829Z"
             }
           ]
         }
