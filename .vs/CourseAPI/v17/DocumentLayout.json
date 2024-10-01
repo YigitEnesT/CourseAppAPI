@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\repositories\\efcore\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\courseapi\\utilities\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|solutionrelative:courseapi\\utilities\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\entities\\datatransferobjects\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\entities\\datatransferobjects\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|solutionrelative:entities\\datatransferobjects\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\entities\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|solutionrelative:entities\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5081A4C-C6E4-4AAF-A4C1-F20CBA28B7AA}|Presantation\\Presantation.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\presantation\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5081A4C-C6E4-4AAF-A4C1-F20CBA28B7AA}|Presantation\\Presantation.csproj|solutionrelative:presantation\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5081A4C-C6E4-4AAF-A4C1-F20CBA28B7AA}|Presantation\\Presantation.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\presantation\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5081A4C-C6E4-4AAF-A4C1-F20CBA28B7AA}|Presantation\\Presantation.csproj|solutionrelative:presantation\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F9FA8C6-5DB7-4CB2-818C-946A81ABE363}|Services\\Services.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\services\\contracts\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9FA8C6-5DB7-4CB2-818C-946A81ABE363}|Services\\Services.csproj|solutionrelative:services\\contracts\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\repositories\\efcore\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\repositories\\contracts\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00E33E-C3AA-4787-946B-A37F762CA055}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\entities\\requestfeatures\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F20213-A869-41EE-A873-9493B952DAAC}|Entities\\Entities.csproj|solutionrelative:entities\\requestfeatures\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\courseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|solutionrelative:courseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|c:\\users\\yetun\\desktop\\projeler\\react\\courseapi\\courseapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8F8E22-8075-49AF-8E17-0ACB5C1E4AE1}|CourseAPI\\WebAPI.csproj|solutionrelative:courseapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,88 +50,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\EFCore\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\EFCore\\CourseRepository.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\CourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "DocumentIndex": 2,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\EFCore\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RatingRepository.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\EFCore\\RatingRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RatingRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:29:12.144Z",
+              "WhenOpened": "2024-10-01T14:54:39.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseDto.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\DataTransferObjects\\CourseDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\CourseDto.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\DataTransferObjects\\CourseDto.cs",
-              "RelativeToolTip": "Entities\\DataTransferObjects\\CourseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:28:52.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\DataTransferObjects\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DataTransferObjects\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\DataTransferObjects\\CategoryDto.cs",
-              "RelativeToolTip": "Entities\\DataTransferObjects\\CategoryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:28:35.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Utilities\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "CourseAPI\\Utilities\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Utilities\\MappingProfile.cs",
-              "RelativeToolTip": "CourseAPI\\Utilities\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:20:14.094Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\Models\\Course.cs",
-              "RelativeToolTip": "Entities\\Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\PagedList.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\RequestFeatures\\PagedList.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:02:21.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Presantation\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Presantation\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Presantation\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Presantation\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:48:42.419Z"
+              "WhenOpened": "2024-10-01T14:47:57.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\RequestFeatures\\MetaData.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestFeatures\\MetaData.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Entities\\RequestFeatures\\MetaData.cs",
+              "RelativeToolTip": "Entities\\RequestFeatures\\MetaData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:45:08.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RatingController.cs",
               "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Presantation\\Controllers\\RatingController.cs",
               "RelativeDocumentMoniker": "Presantation\\Controllers\\RatingController.cs",
               "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Presantation\\Controllers\\RatingController.cs",
               "RelativeToolTip": "Presantation\\Controllers\\RatingController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:48:41.829Z"
+              "WhenOpened": "2024-10-01T13:16:43.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Services\\Contracts\\IRatingService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IRatingService.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Services\\Contracts\\IRatingService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IRatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:59:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Program.cs",
+              "RelativeToolTip": "CourseAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:39:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\CourseAPI\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "CourseAPI\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:36:51.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\Contracts\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\yetun\\Desktop\\Projeler\\React\\CourseAPI\\Repositories\\Contracts\\IRatingRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:11:35.979Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.RequestFeatures;
 using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
 using System;
@@ -20,15 +21,22 @@ namespace Repositories.EFCore
             Create(rating);
         }
 
-        public async Task<IEnumerable<Rating>> GetAllRatingsAsync(bool trackChanges)
+        public async Task<PagedList<Rating>> GetAllRatingsAsync(RatingParameters ratingParameters ,bool trackChanges)
         {
-            return await GetAll(trackChanges).ToListAsync();
+            var ratings = await GetAll(trackChanges)
+                .ToListAsync();
+
+            return PagedList<Rating>
+                .ToPagedList(ratings, ratingParameters.pageNumber, ratingParameters.PageSize);
         }
 
-        public async Task<IEnumerable<Rating>> GetRatingByCourseAsync(int courseId, bool trackChanges)
+        public async Task<PagedList<Rating>> GetRatingByCourseAsync(RatingParameters ratingParameters ,int courseId, bool trackChanges)
         {
-            return await FindByCondition(c => c.CourseId == courseId, trackChanges)
+            var ratings = await FindByCondition(c => c.CourseId == courseId, trackChanges)
                 .ToListAsync();
+
+            return PagedList<Rating>
+                .ToPagedList(ratings, ratingParameters.pageNumber, ratingParameters.PageSize);
         }
     }
 }

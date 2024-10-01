@@ -31,12 +31,13 @@ namespace WebAPI.Extensions
         {
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowSpecificOrigins",
+                options.AddPolicy("CorsPolicy",
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:5173")
-                            .AllowAnyHeader()
-                            .AllowAnyMethod();
+                        builder.AllowAnyOrigin()
+                        .AllowAnyHeader()
+                        .AllowAnyMethod()
+                        .WithExposedHeaders("X-Pagination");
                     });
             });
         }

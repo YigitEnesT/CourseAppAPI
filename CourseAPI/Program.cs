@@ -34,7 +34,7 @@ if (app.Environment.IsProduction())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowSpecificOrigins");
+app.UseCors("CorsPolciy");
 
 app.UseAuthorization();
 

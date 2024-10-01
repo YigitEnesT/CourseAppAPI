@@ -36,3 +36,4 @@ C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Presantation\obj\Debug\net8.0\Pr
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Presantation\obj\Debug\net8.0\refint\Presantation.dll
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Presantation\obj\Debug\net8.0\Presantation.pdb
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Presantation\obj\Debug\net8.0\ref\Presantation.dll
+C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Presantation\obj\Debug\net8.0\Presantation.sourcelink.json

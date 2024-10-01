@@ -290,3 +290,4 @@ C:\Users\yetun\Desktop\Projeler\React\CourseAPI\CourseAPI\obj\Debug\net8.0\refin
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\CourseAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\CourseAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\CourseAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\yetun\Desktop\Projeler\React\CourseAPI\CourseAPI\obj\Debug\net8.0\WebAPI.sourcelink.json

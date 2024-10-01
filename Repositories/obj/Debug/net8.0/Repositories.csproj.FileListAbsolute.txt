@@ -28,3 +28,4 @@ C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Repositories\obj\Debug\net8.0\Re
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Repositories\obj\Debug\net8.0\Repositories.pdb
 C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\yetun\Desktop\Projeler\React\CourseAPI\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

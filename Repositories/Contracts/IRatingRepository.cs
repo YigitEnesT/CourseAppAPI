@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.RequestFeatures;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +10,8 @@ namespace Repositories.Contracts
 {
     public interface IRatingRepository : IRepositoryBase<Rating>
     {
-        Task<IEnumerable<Rating>> GetAllRatingsAsync(bool trackChanges);
-        Task<IEnumerable<Rating>> GetRatingByCourseAsync(int courseId, bool trackChanges);
+        Task<PagedList<Rating>> GetAllRatingsAsync(RatingParameters ratingParameters,bool trackChanges);
+        Task<PagedList<Rating>> GetRatingByCourseAsync(RatingParameters ratingParameters ,int courseId, bool trackChanges);
         void CreateOneRating(Rating rating);
     }
 }

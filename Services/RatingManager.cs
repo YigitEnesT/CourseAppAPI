@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Entities.DataTransferObjects;
 using Entities.Models;
+using Entities.RequestFeatures;
 using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
 using Services.Contracts;
@@ -31,16 +32,20 @@ namespace Services
             return _mapper.Map<RatingDto>(entity);
         }
 
-        public async Task<IEnumerable<RatingDto>> GetALlRatingsAsync(bool trackChanges)
+        public async Task<(IEnumerable<RatingDto> ratings, MetaData metaData)> GetALlRatingsAsync(RatingParameters ratingParameters ,bool trackChanges)
         {
-            var ratings = await _manager.Rating.GetAllRatingsAsync(trackChanges);
-            return _mapper.Map<IEnumerable<RatingDto>>(ratings);
+            var ratingsWithMetaData = await _manager.Rating.GetAllRatingsAsync(ratingParameters,trackChanges);
+            
+            var ratingDto = _mapper.Map<IEnumerable<RatingDto>>(ratingsWithMetaData);
+            return (ratingDto, ratingsWithMetaData.MetaData);
         }
 
-        public async Task<IEnumerable<RatingDto>> GetAllRatingsByCourseAsync(int id, bool trackChanges)
+        public async Task<(IEnumerable<RatingDto> ratings, MetaData metaData)> GetAllRatingsByCourseAsync(RatingParameters ratingParameters, int id, bool trackChanges)
         {
-            var ratings = await _manager.Rating.GetRatingByCourseAsync(id, trackChanges);
-            return _mapper.Map<IEnumerable<RatingDto>>(ratings);
+            var ratingsWithMetaData = await _manager.Rating.GetRatingByCourseAsync(ratingParameters, id, trackChanges);
+            var ratingDto = _mapper.Map<IEnumerable<RatingDto>>(ratingsWithMetaData);
+            
+            return (ratingDto, ratingsWithMetaData.MetaData);
         }
     }
 }
